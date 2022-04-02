@@ -1,0 +1,22 @@
+ accuracy = 0.7028334485141673
+ recall = 0.7028334485141672
+ score = <bound method MulticlassMetrics.weightedFMeasure of <pyspark.mllib.evaluation.MulticlassMetrics object at 0x7f625866b910>>
+ Confusion Matrix : 
+<bound method MulticlassMetrics.confusionMatrix of <pyspark.mllib.evaluation.MulticlassMetrics object at 0x7f625866b910>>
+ Label wise Data
+ 	 Label :0.0
+ falsePositiveRate= 0.4099437148217636
+ truePositiveRate = 0.8533916849015317
+ precision = 0.7811717576364546
+ 	 Label :1.0
+ falsePositiveRate= 0.11528384279475982
+ truePositiveRate = 0.40397350993377484
+ precision = 0.48031496062992124
+ 	 Label :2.0
+ falsePositiveRate= 0.06537828947368421
+ truePositiveRate = 0.49783549783549785
+ precision = 0.5912596401028277
+
+  precision = 0.6880629450267511
+ falsePositiveRate = 0.2934392956043749
+ truePositiveRate = 0.7028334485141672
